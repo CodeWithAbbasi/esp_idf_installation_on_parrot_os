@@ -1,1 +1,0 @@
-# esp_idf_installation_on_parrot_os
