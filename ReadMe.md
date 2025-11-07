@@ -1,6 +1,5 @@
 
-   ```
-## Step-by-Step Guide: Installing ESP-IDF and CP210x Driver on Linux
+### Step-by-Step Guide: Installing ESP-IDF and CP210x Driver on Linux
 
 This guide will help you set up the ESP-IDF framework and the CP210x driver on your Linux machine. Follow the instructions below to ensure a smooth installation.
 
